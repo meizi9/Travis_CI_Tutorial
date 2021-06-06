@@ -62,7 +62,7 @@ class trityp
         if (Side1 == Side3)
             triOut = triOut + 2;
         if (Side2 == Side3)
-            triOut = triOut + 3;
+            triOut = triOut + 2;
         if (triOut == 0)
         {  // Confirm it's a legal triangle before declaring
             // it to be scalene
