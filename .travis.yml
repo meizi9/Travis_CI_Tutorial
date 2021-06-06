@@ -19,7 +19,7 @@ after_success:
     branch: tag
     repo: <meizi9>/<Travis_CI_Tutorial>
     
-    notifications:
+notifications:
  email:
    - 10195101411@stu.ecnu.edu.cn
    
